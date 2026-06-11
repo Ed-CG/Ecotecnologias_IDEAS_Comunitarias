@@ -1,0 +1,50 @@
+- E Veinticinco años de Tierra del Sol desde el 2000. 
+- E enfocado a la permacultura, cuidado y regeneración, cuidar de la salud de las personas. 
+- E Eric, tres años trabajando aquí, antes era el comercio de medicamentos. 
+- E cambio de panorama, interacción humano naturaleza, no solo destruirla. 
+- E cuidar el suelo y el agua. 
+- E reeducación. 
+- E acitropía es regenerarse. 
+- E pensar en que recibo la naturaleza, pero que doy a cambio. 
+- E el uso de monocultivo, tractores y químicos no es bueno para la regeneración de la naturaleza. 
+- T el abonado de tierra de sol se usa para los cultivos de ciclo largo. No se usa para hortalizas. 
+- T Existe captación de agua pluvial. 
+- T baño seco compostero, cacajón, se han intentado. Con separador de desechos. Fusión se composta el papel. 
+- T material secante es la poposta. 
+- T los contenedores se usan como garrafones cortados. 
+- T los baños secos son elevados con contenedores por debajo. 
+- T. Se usa vinagre de manzana para limpiar el piso, producido localmente. Baños con ventana y mosquitero para ventilación. 
+- T es una estructura con dos baños composteros. 
+- T la gestión se realiza dos veces a la semana. 
+- T no es bueno esperar a que se llenen los contenedores, pueden ser muy pesados. 
+- T. Hay dos composteros al lado de los dos baños de la entrada. 
+- T hay dos mingitorios con conductos donde se separa la pipí. 
+- T los recipientes de pipí se dejan en un registro/depósito. 
+- T las capas de la composta son tierra, aserrin, microorganismos sólidos. La composta está lista en dos o tres meses. Los microorganismos secos se recuperan a partir de la descomposición de la composta. Normalmente se usa una carretilla de tierra por media de acerrín. Y 10 kilos de los microorganismos para la mezcla de la composta. 
+- T el compostero cuenta con un sistema de bisagra similar al cofre de un carro para poder acceder a la tierra. 
+- T Aproximadamente 40 personas usan esos dos baños secos a la semana 
+- T Un metro cúbico cubre el contenedor compostero El material de la estructura del compostero es concreto 
+- T Filtran la pipí con carbón Se llena con tres cuartos del contenedor en un tambo de plástico 
+- T el carbón proviene del bambú No de los árboles Hay dos tipos de bambú en tierra del sol 
+- T se usa techo de lámina y mosqueteros y mayas para la ventilación del compostero El olor de la pipi es un problema 
+- T se usan guantes cubrebocas para el manejo de los desechos 
+- T Se usa un sistema de filtración de pozo para remineralizar el agua Se usan gravilla, carbón y arena Los materiales de los pasos de filtración se cambian cada año 
+- E. No se utiliza el agua pluvial para tomar 
+- T hay dos personas a cargo de la gestión de los baños 
+- T Existe un humedal con trampa de grasas, gravilla, arena y plantas 
+- T la capacidad de este humedal es para una semana de uso de agua en la cocina 
+- T el carbón es importante para los biofiltros 
+- T el pipiducto se llega a tapar con la tierra de la materia secante 
+- E es importante evitar manipular la orina Donde se encuentra el carbón 
+- T la gestión se lleva a cabo los lunes, miércoles y viernes 
+- E es pesado estar alzando el bote de los depósitos 
+- E Hay bastantes moscas alrededor de los contenedores y los composteros Pero se evitan su paso con la malla sombra E Es importante tapar las tazas de los baños
+- T también se usa escoba, jalador y cepillo para remover el abono, también una pala
+- E Lleva dos meses en el llenado del compostero. 
+- E Podría ser útil reforzar el borde con mecate para levantar el contenedor.
+- E Un diablito puede ayudar a transportar los contenedores de desechos. Una carretilla no sería útil.
+- E Es importante o es más accesible tener un compostero designado a cada baño para evitarlo acarrear los contenedores de desechos.
+- E El pipiducto de los baños puede llegar a tener olor cuando no se enjuaga con agua.
+- T Se llevan 10 minutos de mantenimiento por cada baño. Esto incluye contenedor y cubeta.
+- T Llevan 6 a 8 años con la con el sistema de baños secos con separación.
+- T Se usa agua con vinagre para lavar o hidrolatos para dejar un olor agradable en los baños. 

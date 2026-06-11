@@ -1,0 +1,91 @@
+- T: 2 mingitorios, pozo de absorción con tubo perforado, modelos de mingitorio seco de cerámica marca Corona. Líquido azul con olor a "citronela", para absorción de olores.
+- T:  Sistema de aguas pluviales
+- E: Empresa Isla urbana da capacitaciones para sistemas de aguas pluviales
+- T: 200 lts de agua se almacenan en el Tlaloque. Se contempla el volumen de captación multiplicando el área de captación por 0.7 para un periodo de tiempo
+- E: Existen varios sistemas de recolección de agua pluvial en la región
+- E: se pueden generar tinacos de geomembrana
+- E: Normalmente, el número de tlaloques es menor al número de depósitos de agua pluvial
+- E: Es valioso capacitarse, cada cosa tiene una forma específica de hacerse
+- T: 400 personas han ocupado el espacio desde la apertura
+- T: El líquido desodorizante de los mingitorios viene en un cartucho reemplazable desechable
+- T: Las puertas d elos baños son de madera con rejillas en la parte superior para la ventilación
+- T: Se ha modificado la "manga" que concecta a la taza de los baños hacia los contenedores de desecho para que sean de acero inoxidable.
+- T: Las tazas de los baños son los del modelo de WCEco
+- E: Se ha usado como materia secante el aserrín, la viruta, cascarilla de cacao, poquito de tierra.
+- T: Actualmente se usa cascarilla de cacao con un poco de tierra como materia secante
+- T: Compostadores al air libre hechos de block y concreto
+- T: Llevan 3 años con el sistema de separación  de líquidos
+- T: El papel biodegradable también se deposita en la taza
+- T: Los asientos y tapas son de madera
+- E: La experiencia estética ayuda
+- E: Entre más cercano al piso esté el contenedor más fácil será trasladarlo
+- E: Antes, se usaban cacajones en vez de las tasas
+- T: Como recipiente de desechos se usa una olla de acero inoxidable. La olla es cóncava por debajo y con menor diámetro de la boca, esto ayuda a concentrar los líquidos. Los líquidos fluyen desde la olla hacia una tubería de PVC que concentra los líquidos de todas las tazas
+- E: Si hay un grupo grande, se necesita cambiar o vacear la olla de manera diaria
+- T: Se usan guantes, gogles y cubrebocas para el manejo de los residuos
+- E: Se debería añadir el uso de botas al equipo de manejo
+- T: Únicamente Guillermo es el que se encarga del manejo de los residuos
+- E: Antes se usaban cubetas de plástico como contenedores de desechos
+- E: Cerrar el baño durante el mantenimiento.
+- T: Área de gestión de desechos por debajo de los baños. 
+- T: Se cobra una comisión por lavar los baños. 
+- T: Se limpió la olla con manguera. 
+- E: Aprender a limpiar para quitarse el miedo de la caca. 
+- E: En la experiencia, no hace faltan dos personas para el mantenimiento. 
+- T:  La primera capa es zacate seco para evitar que pasen los sólidos al fondo de la olla. 
+- T: Hoyos al fondo de la olla para la separación de líquidos.
+- T: Hay un tubo flexible entre el receptor de líquidos y la tubería de PVC. 
+- Compuertas de lámina con seguros de pasador que las mantienen cerradas. 
+- Se usó un diámetro menor al recomendado de Pv C. 
+- La cascarilla se recibe de beneficios de café. 
+- Tindas de plástico para almacenar materia secante, cascarilla. 
+- Se usa un ventilador en el extractor de olores. 
+- Hay una coladera en el espacio de mantenimiento. 
+- El conducto de la tasa hacia el depósito puede escurrir líquido sobre Las paredes aledañas 
+- No hay moscas en la taza ni en ningún lugar. 
+- Existe una rejilla deslizante sobre la cual descansa la olla, ayuda a retirar y colocar la misma. 
+- El agua se acumula donde pueda. 
+- No hace falta cargar tanto peso. No es necesario un gato hidráulico. 
+- No es muy práctico retirar o colocar los contenedores de las tazas a nivel por encima del pecho 
+- Separar la pipí ayuda a la gestión de desechos. 
+- El volumen de orina es importante en cada sistema. 
+- Se planea usar la composta para cultivos que no toquen el suelo.
+- Es una buena idea añadir trampas de grasa al depósito de agua jabonosa. 
+- El depósito de agua jabonosa proviene de la carga de una lavadora. 
+- Cuando hay una ocupación de entre 35 y 40 personas, es necesario limpiar dos veces al día la orina. 
+- Las ollas son de aproximadamente 30 litros. 
+- Existen registros para el mantenimiento que podrían reutilizarse como trampa de grasas. 
+- Los registros solo tienen agua, no cumplen ninguna función filtrante. 
+- Al hacer un diseño arquitectónico es necesario tomar en cuenta la energía, temperatura y la experiencia, así como la accesibilidad. 
+- Incluir rampas en el diseño arquitectónico ocupan mucha área. 
+- Existen respiraderos para los baños hacia una toma con ventilador conectada al compartimiento donde residen las ollas. 
+- Podría tomarse en cuenta la dirección del viento para la salida de los respiraderos. 
+- La composta se vuelve muy seca al remover los orines. 
+- Como sistema de reboce, se incluyen tubos de absorción que van hacia la Tierra. 
+- En algunos casos, los tubos de absorción se pueden tapar por las raíces de las plantas aledañas. 
+- El Taloque de 200 litros recolecta la primer agua de lluvia sucia y después de llenarse deja pasar el resto de ella. 
+- La capacidad de agua de lluvia va hasta los 140 mil litros en total entre todos los edificios.
+- La pelota de goma dentro del Taloque remueve los sedimentos y tapa la entrada cuando este está lleno. 
+- Es importante incluir un reductor de turbulencia al fondo de las cisternas para evitar levantar los sedimentos.  
+- Se mencionó que cada región de Oaxaca tiene sus costumbres respecto al manejo de desechos y captación de agua de lluvia. 
+- Es importante que una persona que tenga experiencia en el tema acude a las localidades para ayudar. 
+- Valdría la pena mejorar la coordinación entre el diseño estructural y los espacios aledaños. 
+- Una posible mejora es la de rediseñar el manejo de las cubetas o contenedores. 
+- Se observó que las cosas menos especializadas son mejores, soluciones más simples. 
+- Las cubetas de plástigan a costar 150 pesos en la central de abastos de material resistente. 
+- No ha habido problemas o quejas en la experiencia de visitantes. 
+- Personas de otras comunidades, grupos de jóvenes han usado los baños secos. 
+- Si se explica bien el uso de los baños secos, es más fácil que lo adopten. 
+- La adopción de los baños secos depende mucho de la apertura de las personas. 
+- Es importante un fácil acceso al contenedor de desechos. 
+- Colocar mangueras de agua para limpiar la taza Derrota al propósito de los baños secos. 
+- El uso de materiales sustentables para la construcción es caro y poco práctico para modificaciones. 
+- La ventilación en los baños secos es buena, pero demasiada ventilación puede causar problemas. 
+- Los asientos de madera no presentan un problema para su limpieza. 
+- Durante el desarrollo de espacios sustentables, algunas metas se contradicen, lo más sencillo siempre funciona mejor. 
+- Las mariposas que sirven para fijar los asientos de madera a las tazas se llegan a aflojar. 
+- Si requiere un esfuerzo físico considerable llevar y cargar las ollas. 
+- Aunque se quisiera que los baños secos fueran perfectos, el olor es algo normal, lo más sencillo siempre funciona mejor. 
+- Reproducir la idea ayuda mucho, ayuda a encontrar soluciones.
+- Lugar de la entrevista Espacio Comunitario Nan'nda. 
+- 

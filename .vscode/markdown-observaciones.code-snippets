@@ -1,0 +1,18 @@
+{
+  "Observacion tecnica (lista)": {
+    "scope": "markdown",
+    "prefix": ["obs-t", "otecnica"],
+    "body": [
+      "- T: $1"
+    ],
+    "description": "Inserta una observacion tecnica como elemento de lista no ordenada"
+  },
+  "Observacion experiencia (lista)": {
+    "scope": "markdown",
+    "prefix": ["obs-e", "oexperiencia"],
+    "body": [
+      "- E: $1"
+    ],
+    "description": "Inserta una observacion de experiencia como elemento de lista no ordenada"
+  }
+}
