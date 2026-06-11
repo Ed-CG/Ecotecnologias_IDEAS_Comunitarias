@@ -1,6 +1,6 @@
 ---
 title: "Diagnóstico de Campo - Caso BF-02"
-subtitle: "Lombifiltro y Humedales (CIIDIR)"
+subtitle: "Biofiltro de jardín (Aguas Grises)"
 date: "Pendiente"
 ---
 
@@ -13,10 +13,9 @@ date: "Pendiente"
 
 * **Código del caso:** BF-02
 * **Fecha:** 
-* **Nombre de persona entrevistada:** 
-* **Localidad / sitio:** CIIDIR
-* **Tecnología observada:** <input type="checkbox" checked onclick="return false;"> Biofiltro (Lombifiltro)  <input type="checkbox" checked onclick="return false;"> Humedal construido
-
+* **Nombre de persona entrevistada:** (Misma persona que instaló el sistema de la casa)
+* **Localidad / sitio:** (Área de regaderas)
+* **Tecnología observada:** <input type="checkbox" checked onclick="return false;"> Biofiltro  <input type="checkbox" onclick="return false;"> Biodigestor  <input type="checkbox" onclick="return false;"> Sistema mixto
 
 ---
 
@@ -24,20 +23,19 @@ date: "Pendiente"
 
 ### A. Identificación general
 * **Código del caso:** BF-02
-* **Tipo de sitio:** <input type="checkbox" checked onclick="return false;"> Institución / Investigación
+* **Tipo de sitio:** <input type="checkbox" checked onclick="return false;"> Regaderas públicas / Alta afluencia
 * **Instalado por:** 
-* **Tiempo de uso:** <input type="checkbox" checked onclick="return false;"> 1 a 3 años (1 año y medio de operación, desde 2020 según notas)
-* **Persona entrevistada:** 
+* **Tiempo de uso:** 
+* **Número de usuarios regulares:** 70 personas diarias.
 
 ### B. Contexto y problema original
-1. **¿Cuál era el problema principal que querían resolver?** Tratamiento de aguas negras concentradas. Problema de investigación y "necesidad de aliviar la descarga en los ríos".
-4. **¿Qué cambió en la vida diaria desde que se instaló?** El producto del filtro se usa para riego de áreas verdes. Un metro cúbico de agua tratada al día.
-
-### C. Experiencia de uso y confianza
+1. **Antes de tener este sistema, ¿qué hacían con el agua gris o con las excretas?** 
+2. **¿Cuál era el problema principal que querían resolver?** Recuperación de aguas grises provenientes de regaderas.
+3. **¿Ese problema se resolvió totalmente, parcialmente o no se resolvió?** Totalmente (se recupera 60-70% del agua, demostró ser segura para riego).
+4. **¿Qué cambió en la vida diaria desde que se instaló?** El agua recuperada se envía a una cisterna y se usa para las descargas de los inodoros (los inodoros van al drenaje municipal).
 
 ### D. Mantenimiento aceptable
-1. **¿Qué mantenimiento sí hace actualmente?** Una vez al mes: poda estacional, remoción de los primeros 10 cm del sustrato, airear y rastrillar el sustrato del lombifiltro.
-2. **Tiempo de mantenimiento:** 20 minutos (Es muy eficiente y aceptable).
+1. **¿Qué mantenimiento sí hace actualmente?** Limpieza a la trampa de grasas (mantenimiento principal). Retiro de hojas secas en las plantas del biofiltro cuando es necesario.
 
 ---
 
@@ -45,40 +43,40 @@ date: "Pendiente"
 
 ### A. Clasificación del sistema
 **Tipo de sistema observado:**
-* <input type="checkbox" checked onclick="return false;"> Lombifiltro
-* <input type="checkbox" checked onclick="return false;"> Humedal construido
+* <input type="checkbox" checked onclick="return false;"> Biofiltro de jardín
+* <input type="checkbox" checked onclick="return false;"> Trampa de grasas
 
 **Fuente de agua:**
-* <input type="checkbox" checked onclick="return false;"> Aguas negras concentradas (50 litros/día por persona a 8 horas de estadía).
+* <input type="checkbox" checked onclick="return false;"> Regaderas (exclusivamente aguas grises, los baños van al drenaje).
+
+### B. Uso estimado sin medición
+* **Cargas/Flujo estimado:** 3,000 a 4,000 litros diarios. (70 personas diarias).
 
 ### C. Ruta hidráulica observada
-1. Registros de aguas concentradas.
-2. Lombifiltros (donde las lombrices ayudan a la descomposición de sólidos y grasas).
-3. Humedales.
-4. Bombeo de riego para áreas verdes.
-5. Tiempo de retención: Aproximadamente 4 horas.
-6. Control de flujo en humedal mediante geomembrana (para subir y bajar nivel). 
-7. Tuberías tienen respiradero que atraviesa en forma de "U" el contenedor de lombrices.
+1. Primero pasa sobre la trampa de grasa (importante reducir la velocidad del agua).
+2. Pasa al biofiltro de jardín.
+3. El agua tratada se recupera en una cisterna.
+4. Tiempo de retención del agua: 2 días o más. (Entre más tiempo de retención es mejor; se reduce cuando las raíces comienzan a crecer).
 
 ### D. Estado visible del sistema
-* *(Llenar a partir de fotos)*
-* Notas sobre fallas históricas: Se ha tapado el biofiltro debido al uso excesivo. El diámetro de los tubos comprobó que se pueden llegar a tapar fácilmente con aguas negras. Microorganismos o procesos de acidificación podrían estar erosionando concreto o grava.
-
+* 
 ### E. Materiales, dimensiones y componentes observables
-* **Materiales alternativos usados:** Adoquín y residuos de construcción (pedazos de concreto, ladrillo) en vez de grava. Funciona mejor y mejora la reducción de nitrógeno (no acidifica el agua).
-* **Composición del lombifiltro:** 50% grava (o adoquín), 50% materia divididos por malla.
-* **Sustrato orgánico:** Corteza de árbol, cáscara de coco (liberan taninos). 
-* **Plantas usadas:** Tule, Platanillo, Papiro (tres tipos), Alocasia, Taro, Licoria.
+* **Sustratos visibles:** 
+  - Arena (10 cm)
+  - Grava (10 cm). Se ha tenido que aumentar el nivel de la grava.
+  - Cantera (15 cm).
+* **Plantas usadas:** Cola de caballo, papiro y tibia. Se puede incluir alcatraces donde haya más humedad.
+* **Crecimiento de plantas:** Lleva tres meses de crecimiento para que se trabajen bien las plantas. Se puede interpretar que la tierra aporta organismos a las plantas.
+* **Instalación:** Se llevan aproximadamente una semana para instalar todo. Se requieren unas 20-30 personas que sepan trabajar con biofiltros para construirlos a esta escala.
 
 ### F. Mantenimiento del sistema de aguas grises
-1. **¿Qué mantenimiento le hacen?** Rastrillar el lombifiltro mensual (remover primeros 10 cm). Poda estacional de las plantas.
-2. **¿Por qué es importante el lombifiltro?** Incluir el lombifiltro reduce considerablemente el área requerida para el biofiltro/humedal completo.
+1. **¿Qué mantenimiento le hacen?** El mantenimiento principal es a la trampa de grasa.
 
 ---
 
 # Formato 3. Priorización rápida al cierre de la visita
 
-* **Puntos críticos observados:** Dosificar la carga hidráulica es vital; cálculos de área sin considerar lombifiltro resultarían muy grandes. Las tuberías con diámetros pequeños son un cuello de botella propenso a taponamientos.
+* **Idea de mejora más prometedora observada:** Mantener el flujo exclusivo de aguas grises (regaderas) previene los problemas asociados al manejo de sólidos y permite una alta tasa de recuperación (60-70%) sin problemas de digestores atascados.
 
 ---
 

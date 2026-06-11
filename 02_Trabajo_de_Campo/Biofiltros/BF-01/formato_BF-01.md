@@ -1,5 +1,5 @@
 ---
-title: "Diagnóstico de Campo - Caso BF-01 (Casa)"
+title: "Diagnóstico de Campo - Caso BF-01"
 subtitle: "Digestores y Biofiltro (Agua Mixta)"
 date: "Pendiente"
 ---
@@ -11,7 +11,7 @@ date: "Pendiente"
 
 # Formato 0. Consentimiento y autorización de registro
 
-* **Código del caso:** BF-01 (Casa)
+* **Código del caso:** BF-01
 * **Fecha:** 
 * **Nombre de persona entrevistada:** (Misma persona que instaló el sistema de regaderas)
 * **Localidad / sitio:** (Casa particular)
@@ -22,7 +22,7 @@ date: "Pendiente"
 # Formato 1. Ficha común del caso
 
 ### A. Identificación general
-* **Código del caso:** BF-01 (Casa)
+* **Código del caso:** BF-01
 * **Tipo de sitio:** <input type="checkbox" checked onclick="return false;"> Casa
 * **Instalado por:** 
 * **Tiempo de uso:** 
